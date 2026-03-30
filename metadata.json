@@ -1,0 +1,5 @@
+{
+  "name": "Foodie Diary & Recommender",
+  "description": "A meal recommendation system to log foods, rate them, upload photos, and view favorites. Built with Supabase.",
+  "requestFramePermissions": []
+}
